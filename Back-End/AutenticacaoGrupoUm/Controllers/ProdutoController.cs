@@ -20,11 +20,11 @@ namespace AutenticacaoGrupoUm.Controllers
         [HttpPost(Name = "ProdutoPost")]
         public IActionResult Post([FromBody]InputDto inputDto)
         {
-            var Sit = _ProdutoService.GetAddProduto(inputDto);
+            var sit = _ProdutoService.GetAddProduto(inputDto);
 
-            if (Sit.StatusCode == 404) return NotFound(Sit);
+            if (sit.StatusCode == 404) return NotFound(sit);
 
-            return Ok(Sit);
+            return Ok(sit);
         }
 
         [HttpGet(Name = "CarrocaGet")]

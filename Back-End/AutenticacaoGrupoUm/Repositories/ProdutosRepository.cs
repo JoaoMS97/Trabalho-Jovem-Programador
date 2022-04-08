@@ -103,7 +103,6 @@ namespace AutenticacaoGrupoUm.Repositories
         {
             Id = produtoEntity.Id,
             Nome = produtoEntity.Nome,
-            //Raca = produtoEntity.Raca,
             Src = produtoEntity.Src,
             Valor = produtoEntity.Valor,
             Quantidade = 1

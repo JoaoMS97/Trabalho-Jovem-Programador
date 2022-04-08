@@ -156,3 +156,33 @@ C:\Users\Predator\Desktop\Projeto_Jovem_Programador (1)\Projeto_Jovem_Programado
 C:\Users\Predator\Desktop\Projeto_Jovem_Programador (1)\Projeto_Jovem_Programador\Projeto_Jovem_Programador\Projeto Jovem Programador\AutenticacaoGrupoUm\obj\Debug\net6.0\AutenticacaoGrupoUm.pdb
 C:\Users\Predator\Desktop\Projeto_Jovem_Programador (1)\Projeto_Jovem_Programador\Projeto_Jovem_Programador\Projeto Jovem Programador\AutenticacaoGrupoUm\obj\Debug\net6.0\AutenticacaoGrupoUm.genruntimeconfig.cache
 C:\Users\Predator\Desktop\Projeto_Jovem_Programador (1)\Projeto_Jovem_Programador\Projeto_Jovem_Programador\Projeto Jovem Programador\AutenticacaoGrupoUm\obj\Debug\net6.0\ref\AutenticacaoGrupoUm.dll
+C:\Users\Predator\Trabalho-Jovem-Programador\Back-End\AutenticacaoGrupoUm\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Predator\Trabalho-Jovem-Programador\Back-End\AutenticacaoGrupoUm\bin\Debug\net6.0\appsettings.json
+C:\Users\Predator\Trabalho-Jovem-Programador\Back-End\AutenticacaoGrupoUm\bin\Debug\net6.0\AutenticacaoGrupoUm.exe
+C:\Users\Predator\Trabalho-Jovem-Programador\Back-End\AutenticacaoGrupoUm\bin\Debug\net6.0\AutenticacaoGrupoUm.deps.json
+C:\Users\Predator\Trabalho-Jovem-Programador\Back-End\AutenticacaoGrupoUm\bin\Debug\net6.0\AutenticacaoGrupoUm.runtimeconfig.json
+C:\Users\Predator\Trabalho-Jovem-Programador\Back-End\AutenticacaoGrupoUm\bin\Debug\net6.0\AutenticacaoGrupoUm.dll
+C:\Users\Predator\Trabalho-Jovem-Programador\Back-End\AutenticacaoGrupoUm\bin\Debug\net6.0\AutenticacaoGrupoUm.pdb
+C:\Users\Predator\Trabalho-Jovem-Programador\Back-End\AutenticacaoGrupoUm\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Certificate.dll
+C:\Users\Predator\Trabalho-Jovem-Programador\Back-End\AutenticacaoGrupoUm\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Predator\Trabalho-Jovem-Programador\Back-End\AutenticacaoGrupoUm\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Predator\Trabalho-Jovem-Programador\Back-End\AutenticacaoGrupoUm\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Predator\Trabalho-Jovem-Programador\Back-End\AutenticacaoGrupoUm\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Predator\Trabalho-Jovem-Programador\Back-End\AutenticacaoGrupoUm\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Predator\Trabalho-Jovem-Programador\Back-End\AutenticacaoGrupoUm\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Predator\Trabalho-Jovem-Programador\Back-End\AutenticacaoGrupoUm\obj\Debug\net6.0\AutenticacaoGrupoUm.csproj.AssemblyReference.cache
+C:\Users\Predator\Trabalho-Jovem-Programador\Back-End\AutenticacaoGrupoUm\obj\Debug\net6.0\AutenticacaoGrupoUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Predator\Trabalho-Jovem-Programador\Back-End\AutenticacaoGrupoUm\obj\Debug\net6.0\AutenticacaoGrupoUm.AssemblyInfoInputs.cache
+C:\Users\Predator\Trabalho-Jovem-Programador\Back-End\AutenticacaoGrupoUm\obj\Debug\net6.0\AutenticacaoGrupoUm.AssemblyInfo.cs
+C:\Users\Predator\Trabalho-Jovem-Programador\Back-End\AutenticacaoGrupoUm\obj\Debug\net6.0\AutenticacaoGrupoUm.csproj.CoreCompileInputs.cache
+C:\Users\Predator\Trabalho-Jovem-Programador\Back-End\AutenticacaoGrupoUm\obj\Debug\net6.0\AutenticacaoGrupoUm.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Predator\Trabalho-Jovem-Programador\Back-End\AutenticacaoGrupoUm\obj\Debug\net6.0\AutenticacaoGrupoUm.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Predator\Trabalho-Jovem-Programador\Back-End\AutenticacaoGrupoUm\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Predator\Trabalho-Jovem-Programador\Back-End\AutenticacaoGrupoUm\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Predator\Trabalho-Jovem-Programador\Back-End\AutenticacaoGrupoUm\obj\Debug\net6.0\scopedcss\bundle\AutenticacaoGrupoUm.styles.css
+C:\Users\Predator\Trabalho-Jovem-Programador\Back-End\AutenticacaoGrupoUm\obj\Debug\net6.0\AutenticacaoGrupoUm.csproj.CopyComplete
+C:\Users\Predator\Trabalho-Jovem-Programador\Back-End\AutenticacaoGrupoUm\obj\Debug\net6.0\AutenticacaoGrupoUm.dll
+C:\Users\Predator\Trabalho-Jovem-Programador\Back-End\AutenticacaoGrupoUm\obj\Debug\net6.0\refint\AutenticacaoGrupoUm.dll
+C:\Users\Predator\Trabalho-Jovem-Programador\Back-End\AutenticacaoGrupoUm\obj\Debug\net6.0\AutenticacaoGrupoUm.pdb
+C:\Users\Predator\Trabalho-Jovem-Programador\Back-End\AutenticacaoGrupoUm\obj\Debug\net6.0\AutenticacaoGrupoUm.genruntimeconfig.cache
+C:\Users\Predator\Trabalho-Jovem-Programador\Back-End\AutenticacaoGrupoUm\obj\Debug\net6.0\ref\AutenticacaoGrupoUm.dll

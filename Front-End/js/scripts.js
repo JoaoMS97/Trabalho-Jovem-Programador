@@ -80,7 +80,7 @@ const inicializarLoja = () => {
             <img src="${val.img}"/>
             <p> Nome: ${val.nome}</p>
             <p> Valor: ${val.valor},00</p>
-        <button onclick="validarRequisicao('${val.id}')">Carregar no tobata</button></div>`
+            <button onclick="validarRequisicao('${val.id}'); alerta();">Carregar no tobata</button></div>`
     }).join("")
     containerProdutos.innerHTML = stringItens
 
@@ -94,7 +94,7 @@ const inicializarLoja = () => {
             <img src="${val.img}"/>
             <p> Nome: ${val.nome}</p>
             <p> Valor: ${val.valor},00</p>
-            <button onclick="validarRequisicao('${val.id}')">Carregar no tobata</button></div>`
+            <button onclick="validarRequisicao('${val.id}'); alerta();">Carregar no tobata</button></div>`
     }).join("")
     containerProdutos.innerHTML = stringItens
 
@@ -108,7 +108,7 @@ const inicializarLoja = () => {
             <img src="${val.img}"/>
             <p> Nome: ${val.nome}</p>
             <p> Valor: ${val.valor},00</p>
-            <button onclick="validarRequisicao('${val.id}')">Carregar no tobata</button></div>`
+            <button onclick="validarRequisicao('${val.id}'); alerta();">Carregar no tobata</button></div>`
     }).join("")
     containerProdutos.innerHTML = stringItens
 
@@ -122,7 +122,7 @@ const inicializarLoja = () => {
             <img src="${val.img}"/>
             <p> Nome: ${val.nome}</p>
             <p> Valor: ${val.valor},00</p>
-            <button onclick="validarRequisicao('${val.id}')">Carregar no tobata</button></div>`
+            <button onclick="validarRequisicao('${val.id}'); alerta();">Carregar no tobata</button></div>`
     }).join("")
     containerProdutos.innerHTML = stringItens
 }
@@ -146,3 +146,7 @@ async function validarRequisicao(Id) {
 }
 
 inicializarLoja();
+
+function alerta() {
+    alert("Carregado com sucesso!");
+}

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BmfbZpCu9MRhRvYetDdhoSyaChNM0hgTwOMQwJqSbMpxGSehvPhFrVruRrsQnJbHYWvadz2Iuj6mNgNbT6OBmA==",
+  "dgSpecHash": "Q/jsgXeqUGofIcnoAoVy4ipv0JsX0QF6dFDGVJmtjkhFFhLgv8J2HBdceP/5JJ+yv5D6R2tI9Os9apzmtymyTg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Predator\\Desktop\\Projeto_Jovem_Programador (1)\\Projeto_Jovem_Programador\\Projeto_Jovem_Programador\\Projeto Jovem Programador\\AutenticacaoGrupoUm\\AutenticacaoGrupoUm.csproj",
+  "projectFilePath": "C:\\Users\\Predator\\Trabalho-Jovem-Programador\\Back-End\\AutenticacaoGrupoUm\\AutenticacaoGrupoUm.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Predator\\.nuget\\packages\\microsoft.aspnetcore.authentication.certificate\\6.0.3\\microsoft.aspnetcore.authentication.certificate.6.0.3.nupkg.sha512",
     "C:\\Users\\Predator\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",

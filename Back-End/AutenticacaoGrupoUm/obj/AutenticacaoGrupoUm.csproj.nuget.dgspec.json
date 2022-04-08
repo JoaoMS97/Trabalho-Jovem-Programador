@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Predator\\Desktop\\Projeto_Jovem_Programador (1)\\Projeto_Jovem_Programador\\Projeto_Jovem_Programador\\Projeto Jovem Programador\\AutenticacaoGrupoUm\\AutenticacaoGrupoUm.csproj": {}
+    "C:\\Users\\Predator\\Trabalho-Jovem-Programador\\Back-End\\AutenticacaoGrupoUm\\AutenticacaoGrupoUm.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Predator\\Desktop\\Projeto_Jovem_Programador (1)\\Projeto_Jovem_Programador\\Projeto_Jovem_Programador\\Projeto Jovem Programador\\AutenticacaoGrupoUm\\AutenticacaoGrupoUm.csproj": {
+    "C:\\Users\\Predator\\Trabalho-Jovem-Programador\\Back-End\\AutenticacaoGrupoUm\\AutenticacaoGrupoUm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Predator\\Desktop\\Projeto_Jovem_Programador (1)\\Projeto_Jovem_Programador\\Projeto_Jovem_Programador\\Projeto Jovem Programador\\AutenticacaoGrupoUm\\AutenticacaoGrupoUm.csproj",
+        "projectUniqueName": "C:\\Users\\Predator\\Trabalho-Jovem-Programador\\Back-End\\AutenticacaoGrupoUm\\AutenticacaoGrupoUm.csproj",
         "projectName": "AutenticacaoGrupoUm",
-        "projectPath": "C:\\Users\\Predator\\Desktop\\Projeto_Jovem_Programador (1)\\Projeto_Jovem_Programador\\Projeto_Jovem_Programador\\Projeto Jovem Programador\\AutenticacaoGrupoUm\\AutenticacaoGrupoUm.csproj",
+        "projectPath": "C:\\Users\\Predator\\Trabalho-Jovem-Programador\\Back-End\\AutenticacaoGrupoUm\\AutenticacaoGrupoUm.csproj",
         "packagesPath": "C:\\Users\\Predator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Predator\\Desktop\\Projeto_Jovem_Programador (1)\\Projeto_Jovem_Programador\\Projeto_Jovem_Programador\\Projeto Jovem Programador\\AutenticacaoGrupoUm\\obj\\",
+        "outputPath": "C:\\Users\\Predator\\Trabalho-Jovem-Programador\\Back-End\\AutenticacaoGrupoUm\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Predator\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -172,24 +172,14 @@ centro h3 {
     margin-top: 10%;
     margin-bottom: 10%;
 }
-esquerda:hover img{  
+
+esquerda:hover img {
     -moz-transform: scale(1.1);
     -webkit-transform: scale(1.1);
     transition: scale(1.1);
 }
-esquerda img{  
-    border-radius: 10px;
-    max-width: 100%;
-    -moz-transition: all 0.3s;
-    -webkit-transition: all 0.3s;
-    transition: all 0.3s;
-}
-direita:hover img{  
-    -moz-transform: scale(1.1);
-    -webkit-transform: scale(1.1);
-    transition: scale(1.1);
-}
-direita img{  
+
+esquerda img {
     border-radius: 10px;
     max-width: 100%;
     -moz-transition: all 0.3s;
@@ -197,6 +187,19 @@ direita img{
     transition: all 0.3s;
 }
 
+direita:hover img {
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transition: scale(1.1);
+}
+
+direita img {
+    border-radius: 10px;
+    max-width: 100%;
+    -moz-transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+}
 
 
 /*=========PARTE DA LOJA========*/
@@ -327,6 +330,7 @@ button,
     max-width: 800px;
 }
 
+
 /*=========Carrinho========*/
 
 .teste {
@@ -409,5 +413,23 @@ footer {
         padding-top: 20px;
         margin: 0;
         flex-direction: column;
+    }
+    .classtext1 {
+        margin-top: 5%;
+    }
+    .classtext2 {
+        margin: 5%;
+    }
+    #ftX {
+        margin: 5%;
+    }
+    #ftJ {
+        margin: 5%;
+    }
+    #ftM {
+        margin: 5%;
+    }
+    #ftL {
+        margin: 5%;
     }
 }
